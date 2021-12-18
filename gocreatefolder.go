@@ -1,4 +1,4 @@
-package createfolder
+package gocreatefolder
 
 import (
 	"io/fs"
