@@ -1,3 +1,3 @@
-module CreateFolder
+module createfolder
 
 go 1.17

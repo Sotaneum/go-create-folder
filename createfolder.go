@@ -1,4 +1,4 @@
-package CreateFolder
+package createfolder
 
 import (
 	"io/fs"
